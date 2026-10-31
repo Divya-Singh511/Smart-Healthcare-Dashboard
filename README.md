@@ -49,7 +49,7 @@ Symptoms Analysis
 
 Tableau Dashboard
 
-Dashboard Link: Paste your published Tableau Public dashboard link here.
+Dashboard Link: https://1drv.ms/u/c/B005482B216359DF/IQDzPAXbjc5TT5PUwaY-s_baAcVFAjzlTTm82-Md8daueaU?e=z5WbxC.
 
 Project Story
 
